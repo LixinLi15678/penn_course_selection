@@ -44,5 +44,5 @@ This static prototype represents only **one screen** of the high-fidelity design
 ---
 
 ## 5. Attribution
-- Logo and course data are from the official [Path@Penn](https://path.penn.edu) site.
+- Logo and course data are from the official [Path@Penn](https://courses.upenn.edu/) site.
 - Design and code created by Lixin Li as part of University of Pennsylvania coursework.
